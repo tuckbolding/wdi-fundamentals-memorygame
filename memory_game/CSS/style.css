@@ -73,6 +73,10 @@ footer {
 
 }
 
+.reset {
+	padding: 40px;
+}
+
 .copyright {
 	font-family: "Raleway" ,sans-serif;
 	float:left;
